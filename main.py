@@ -13,3 +13,4 @@ if __name__ == '__main__':
     # Nova linha
     # Nova linha 2
     # Nova linha 3
+    # Simulando alteraçao de outra pessoa
