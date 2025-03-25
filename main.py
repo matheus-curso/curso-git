@@ -10,6 +10,7 @@ def imprime_impares(n):
 
 if __name__ == '__main__':
     imprime_pares(10)
+    imprime_impares(20)
     # Nova linha
     # Nova linha 2
     # Nova linha 3
